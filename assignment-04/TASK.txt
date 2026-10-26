@@ -1,0 +1,6 @@
+Assignment 4: Git commits
+
+PDF task:
+Submit a repository with at least three meaningful commits.
+
+Review the page in index.html, personalize the content, and test it in a browser.

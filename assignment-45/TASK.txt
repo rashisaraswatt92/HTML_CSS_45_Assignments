@@ -1,0 +1,6 @@
+Assignment 45: Responsive landing page
+
+PDF task:
+Submit a finished responsive landing-page project.
+
+Review the page in index.html, personalize the content, and test it in a browser.

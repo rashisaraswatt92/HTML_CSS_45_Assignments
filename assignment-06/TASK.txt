@@ -1,0 +1,6 @@
+Assignment 6: Basic HTML page
+
+PDF task:
+Build a basic HTML page with a title and a few headings.
+
+Review the page in index.html, personalize the content, and test it in a browser.

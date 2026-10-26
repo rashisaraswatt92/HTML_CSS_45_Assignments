@@ -1,0 +1,6 @@
+Assignment 38: Dashboard grid areas
+
+PDF task:
+Create a dashboard using named grid areas.
+
+Review the page in index.html, personalize the content, and test it in a browser.

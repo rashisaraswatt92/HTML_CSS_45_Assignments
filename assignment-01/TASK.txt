@@ -1,0 +1,6 @@
+Assignment 1: URL to webpage explanation
+
+PDF task:
+Write a one-paragraph explanation of what happens between typing a URL and seeing the page.
+
+Review the page in index.html, personalize the content, and test it in a browser.

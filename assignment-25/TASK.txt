@@ -1,0 +1,6 @@
+Assignment 25: Design choices note
+
+PDF task:
+Submit the styled multi-page project with a short design note.
+
+Review the page in index.html, personalize the content, and test it in a browser.

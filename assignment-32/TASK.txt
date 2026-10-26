@@ -1,0 +1,6 @@
+Assignment 32: Centered login form
+
+PDF task:
+Center a login form using Flexbox.
+
+Review the page in index.html, personalize the content, and test it in a browser.

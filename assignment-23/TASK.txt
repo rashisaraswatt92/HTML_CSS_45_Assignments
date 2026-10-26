@@ -1,0 +1,6 @@
+Assignment 23: Styled resume
+
+PDF task:
+Restyle the resume with a font pairing and colour palette.
+
+Review the page in index.html, personalize the content, and test it in a browser.

@@ -1,0 +1,6 @@
+Assignment 40: Grid project
+
+PDF task:
+Submit the finished Grid-based project.
+
+Review the page in index.html, personalize the content, and test it in a browser.

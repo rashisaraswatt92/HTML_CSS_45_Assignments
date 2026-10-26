@@ -1,0 +1,6 @@
+Assignment 35: Flexbox landing section
+
+PDF task:
+Submit a finished Flexbox landing-page section.
+
+Review the page in index.html, personalize the content, and test it in a browser.

@@ -1,0 +1,6 @@
+Assignment 28: Overflow fix
+
+PDF task:
+Demonstrate a layout with overflow handled correctly.
+
+Review the page in index.html, personalize the content, and test it in a browser.

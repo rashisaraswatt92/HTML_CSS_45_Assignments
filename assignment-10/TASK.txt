@@ -1,0 +1,6 @@
+Assignment 10: Personal introduction
+
+PDF task:
+Submit the finished personal-introduction HTML page.
+
+Review the page in index.html, personalize the content, and test it in a browser.

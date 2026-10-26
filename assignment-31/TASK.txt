@@ -1,0 +1,6 @@
+Assignment 31: Flexbox navbar
+
+PDF task:
+Create a responsive menu bar using display:flex.
+
+Review the page in index.html, personalize the content, and test it in a browser.

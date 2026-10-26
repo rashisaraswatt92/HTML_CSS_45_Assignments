@@ -1,0 +1,6 @@
+Assignment 24: CSS variables
+
+PDF task:
+Create a design-token stylesheet using CSS variables.
+
+Review the page in index.html, personalize the content, and test it in a browser.

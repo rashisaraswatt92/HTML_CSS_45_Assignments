@@ -1,0 +1,6 @@
+Assignment 2: Setup proof
+
+PDF task:
+Submit a screenshot proving VS Code, Node.js, and Live Server are installed correctly.
+
+Review the page in index.html, personalize the content, and test it in a browser.

@@ -1,0 +1,6 @@
+Assignment 8: Semantic resume
+
+PDF task:
+Refactor the resume page to use semantic containers instead of plain text blocks.
+
+Review the page in index.html, personalize the content, and test it in a browser.

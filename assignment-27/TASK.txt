@@ -1,0 +1,6 @@
+Assignment 27: Three card variants
+
+PDF task:
+Create three card variants using border-radius and backgrounds.
+
+Review the page in index.html, personalize the content, and test it in a browser.

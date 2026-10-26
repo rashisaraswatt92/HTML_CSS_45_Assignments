@@ -1,0 +1,6 @@
+Assignment 3: Terminal navigation practice
+
+PDF task:
+Complete a short terminal-navigation practice sheet.
+
+Review the page in index.html, personalize the content, and test it in a browser.

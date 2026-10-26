@@ -1,0 +1,6 @@
+Assignment 17: Job application form
+
+PDF task:
+Build a job-application style form using common input types.
+
+Review the page in index.html, personalize the content, and test it in a browser.

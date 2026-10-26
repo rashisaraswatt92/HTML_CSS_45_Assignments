@@ -1,0 +1,6 @@
+Assignment 37: Responsive product grid
+
+PDF task:
+Build a product grid that reflows automatically.
+
+Review the page in index.html, personalize the content, and test it in a browser.

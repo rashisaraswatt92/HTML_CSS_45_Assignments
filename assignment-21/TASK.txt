@@ -1,0 +1,6 @@
+Assignment 21: Light CSS styling
+
+PDF task:
+Convert an HTML-only page into a lightly styled page.
+
+Review the page in index.html, personalize the content, and test it in a browser.

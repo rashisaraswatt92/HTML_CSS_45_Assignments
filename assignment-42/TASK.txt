@@ -1,0 +1,6 @@
+Assignment 42: Responsiveness audit
+
+PDF task:
+Audit and fix responsiveness issues.
+
+Review the page in index.html, personalize the content, and test it in a browser.

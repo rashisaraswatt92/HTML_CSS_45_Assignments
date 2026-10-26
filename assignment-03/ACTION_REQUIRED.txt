@@ -1,0 +1,1 @@
+This assignment needs a real action/evidence beyond the sample webpage. Follow the task text in TASK.txt. For screenshots, capture your own installed tools/browser. For GitHub, create your own repository and push the files. Do not claim a screenshot or repository exists until you have actually made it.

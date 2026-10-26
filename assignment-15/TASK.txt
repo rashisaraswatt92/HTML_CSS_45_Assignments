@@ -1,0 +1,6 @@
+Assignment 15: Blog/portfolio
+
+PDF task:
+Submit the completed personal blog/portfolio page.
+
+Review the page in index.html, personalize the content, and test it in a browser.

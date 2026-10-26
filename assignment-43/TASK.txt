@@ -1,0 +1,6 @@
+Assignment 43: Grid and Flexbox landing page
+
+PDF task:
+Recreate a landing page using both Grid and Flexbox.
+
+Review the page in index.html, personalize the content, and test it in a browser.

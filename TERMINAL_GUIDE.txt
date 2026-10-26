@@ -1,0 +1,34 @@
+TERMINAL GUIDE (WINDOWS)
+========================
+
+1) Open the extracted project folder in VS Code.
+2) In VS Code choose Terminal > New Terminal.
+3) Check Git is available by typing: git --version
+4) To create the first local commit, either double-click START_REPOSITORY_WINDOWS.bat or run:
+     .\START_REPOSITORY_WINDOWS.ps1
+   If PowerShell blocks the script, use the .bat file instead.
+
+5) Create a repository while signed in to the GitHub account you are authorised to use.
+   The intended account name supplied in the request is rashisaraswatt92 (Rashi Saraswat).
+   Create a repository named html-css-practical-assignments. Do not put a password or token in a script.
+
+6) Connect this local folder to the repository. Replace the URL with the actual repository URL:
+     git remote add origin https://github.com/rashisaraswatt92/html-css-practical-assignments.git
+     git branch -M main
+     git push -u origin main
+   If `origin` already exists, inspect it with `git remote -v` instead of adding it again.
+   The push works only if the repository exists and the signed-in GitHub user has permission.
+
+7) Make real edits and meaningful commits. For example, after personalising pages:
+     git add .
+     git commit -m "Personalize assignment pages"
+     git push
+   Then after a separate real CSS/layout improvement:
+     git add .
+     git commit -m "Improve responsive layouts"
+     git push
+
+IMPORTANT:
+- The helper script makes one initial local commit only. It does not create fake commits.
+- It does not sign in, create a GitHub repository, or upload files automatically.
+- Never share your password, recovery codes, or personal access token in chat.

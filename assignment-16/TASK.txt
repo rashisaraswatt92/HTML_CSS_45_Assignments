@@ -1,0 +1,6 @@
+Assignment 16: Student registration form
+
+PDF task:
+Create a student-registration form using basic input types.
+
+Review the page in index.html, personalize the content, and test it in a browser.

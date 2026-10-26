@@ -1,0 +1,6 @@
+Assignment 30: Profile/product card
+
+PDF task:
+Submit a finished profile/product card component.
+
+Review the page in index.html, personalize the content, and test it in a browser.

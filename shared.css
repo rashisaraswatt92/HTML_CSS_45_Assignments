@@ -1,0 +1,24 @@
+/* Shared styles for the HTML & CSS practical assignments */
+:root { --ink: #172033; --brand: #2446a8; --accent: #e5edff; --surface: #ffffff; --muted: #5b6475; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Arial, Helvetica, sans-serif; line-height: 1.6; color: var(--ink); background: #f3f6fb; }
+header, footer { background: var(--brand); color: white; padding: 1rem 1.25rem; }
+nav { display: flex; flex-wrap: wrap; gap: 1rem; }
+nav a { color: inherit; font-weight: bold; }
+main { max-width: 1000px; margin: 1.5rem auto; padding: 1rem; }
+section, article, .card, form, table { background: var(--surface); border-radius: 12px; padding: 1rem; margin: 1rem 0; box-shadow: 0 3px 12px #14213d12; }
+h1, h2 { line-height: 1.2; }
+a { color: var(--brand); }
+button, input, select, textarea { font: inherit; padding: .6rem; margin: .25rem 0; }
+button { background: var(--brand); color: white; border: 0; border-radius: 7px; cursor: pointer; }
+label { display: block; margin-top: .5rem; }
+input, select, textarea { width: 100%; max-width: 500px; border: 1px solid #b8c2d6; border-radius: 6px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; }
+.flex { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
+.card { border: 1px solid #dce3f1; }
+.small { color: var(--muted); font-size: .92rem; }
+img { max-width: 100%; height: auto; border-radius: 8px; }
+table { width: 100%; border-collapse: collapse; }
+th, td { border: 1px solid #d4dced; padding: .6rem; text-align: left; }
+@media (max-width: 900px) { main { max-width: 95%; } }
+@media (max-width: 650px) { main { margin: .5rem auto; padding: .75rem; } nav { gap: .5rem; } h1 { font-size: 1.65rem; } }

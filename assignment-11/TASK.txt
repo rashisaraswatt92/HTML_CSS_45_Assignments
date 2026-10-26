@@ -1,0 +1,6 @@
+Assignment 11: Portfolio navigation
+
+PDF task:
+Create a portfolio page with working internal navigation.
+
+Review the page in index.html, personalize the content, and test it in a browser.

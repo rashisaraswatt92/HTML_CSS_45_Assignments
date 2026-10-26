@@ -1,0 +1,13 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Assignment 38: Dashboard grid areas - HTML and CSS practical assignment">
+  <title>Assignment 38: Dashboard grid areas</title>
+  <link rel="stylesheet" href="../shared.css">
+</head>
+<body>
+<header><h1>Dashboard</h1></header><main style="display:grid;grid-template-columns:repeat(4,1fr);grid-template-areas:'side head head head' 'side main main extra';gap:1rem"><nav style="grid-area:side;background:#e5edff;padding:1rem;display:block">Menu<br>Overview<br>Reports</nav><section style="grid-area:head"><h2>Welcome back</h2></section><section style="grid-area:main"><h2>Overview</h2><p>12 active projects</p></section><section style="grid-area:extra"><h2>Tasks</h2><p>3 pending</p></section></main>
+</body>
+</html>

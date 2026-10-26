@@ -1,0 +1,6 @@
+Assignment 39: Grid with sidebar
+
+PDF task:
+Build a responsive product grid with header and sidebar.
+
+Review the page in index.html, personalize the content, and test it in a browser.

@@ -1,0 +1,6 @@
+Assignment 5: GitHub repository link
+
+PDF task:
+Share the pushed GitHub repository link as proof of setup.
+
+Review the page in index.html, personalize the content, and test it in a browser.

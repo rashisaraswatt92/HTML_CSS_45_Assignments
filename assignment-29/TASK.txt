@@ -1,0 +1,6 @@
+Assignment 29: Hero positioning
+
+PDF task:
+Style a hero section using position and z-index.
+
+Review the page in index.html, personalize the content, and test it in a browser.

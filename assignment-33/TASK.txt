@@ -1,0 +1,6 @@
+Assignment 33: Product listing
+
+PDF task:
+Build a product listing using flex-wrap.
+
+Review the page in index.html, personalize the content, and test it in a browser.

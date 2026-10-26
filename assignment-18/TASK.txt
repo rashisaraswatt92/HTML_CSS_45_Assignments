@@ -1,0 +1,6 @@
+Assignment 18: Product size chart
+
+PDF task:
+Build an e-commerce-style product size-chart table.
+
+Review the page in index.html, personalize the content, and test it in a browser.

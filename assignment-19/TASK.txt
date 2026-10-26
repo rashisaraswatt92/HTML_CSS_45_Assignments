@@ -1,0 +1,6 @@
+Assignment 19: Meta tags audit
+
+PDF task:
+Audit HTML files and add missing meta tags.
+
+Review the page in index.html, personalize the content, and test it in a browser.

@@ -1,0 +1,6 @@
+Assignment 44: Landing page skeleton
+
+PDF task:
+Push the landing-page HTML skeleton and base desktop styles.
+
+Review the page in index.html, personalize the content, and test it in a browser.

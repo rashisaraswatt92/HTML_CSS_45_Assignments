@@ -1,0 +1,6 @@
+Assignment 41: Responsive breakpoints
+
+PDF task:
+Add two breakpoints and test multiple screen sizes.
+
+Review the page in index.html, personalize the content, and test it in a browser.

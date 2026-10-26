@@ -1,0 +1,6 @@
+Assignment 26: Box model
+
+PDF task:
+Explain the box model with a page element.
+
+Review the page in index.html, personalize the content, and test it in a browser.

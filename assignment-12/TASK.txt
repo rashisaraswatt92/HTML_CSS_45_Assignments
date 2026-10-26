@@ -1,0 +1,6 @@
+Assignment 12: Image alt attributes
+
+PDF task:
+Ensure every image on the portfolio page has a meaningful alt attribute.
+
+Review the page in index.html, personalize the content, and test it in a browser.
